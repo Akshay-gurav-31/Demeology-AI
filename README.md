@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0284C7&height=150&section=header&animation=twinkling" width="100%"/>
 
+<br/>
+
+<img src="static/clinics/skin-logo.png" alt="Demeology-AI Logo" width="180"/>
+
 # Demeology-AI
 
 Demeology-AI is an advanced web-based clinical assistant designed to support dermatological diagnostics. The application integrates computer vision models with natural language processing to analyze patient skin imagery and generate detailed, professional medical insights.
