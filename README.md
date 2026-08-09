@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="static/clinics/skin-logo.png" alt="Demeology-AI Logo" width="180"/>
+<img src="static/clinics/skin-logo.png" alt="Demeology-AI Logo" width="120"/>
 
 # Demeology-AI
 
