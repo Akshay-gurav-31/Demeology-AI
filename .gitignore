@@ -10,8 +10,7 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Models and Large Files
-skin-model/
+# Models and Large Files — tracked via Git LFS
 
 # IDE and OS
 .vscode/

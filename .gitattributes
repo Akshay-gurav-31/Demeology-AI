@@ -1,0 +1,2 @@
+skin-model/*.safetensors filter=lfs diff=lfs merge=lfs -text
+skin-model/*.pth filter=lfs diff=lfs merge=lfs -text
