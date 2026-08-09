@@ -8,6 +8,15 @@
 
 # Demeology-AI
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/Flask-2.x-black?style=flat-square&logo=flask)
+![PyTorch](https://img.shields.io/badge/PyTorch-Latest-EE4C2C?style=flat-square&logo=pytorch)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=flat-square&logo=huggingface)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-412991?style=flat-square&logo=openai)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+![PRs](https://img.shields.io/badge/PRs-Welcome-orange?style=flat-square)
+
 Demeology-AI is an advanced web-based clinical assistant designed to support dermatological diagnostics. The application integrates computer vision models with natural language processing to analyze patient skin imagery and generate detailed, professional medical insights.
 
 </div>
