@@ -1,0 +1,19 @@
+# Environments
+.env
+venv/
+env/
+.venv/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Models and Large Files
+skin-model/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
