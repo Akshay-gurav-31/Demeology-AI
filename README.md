@@ -8,6 +8,16 @@ The application is structured into two primary components:
 - A high-performance Python/Flask backend responsible for processing images, orchestrating machine learning models, and securely handling API communications.
 - A dynamic, responsive frontend built with vanilla HTML, CSS, and JavaScript, featuring a custom design system with native light and dark mode support.
 
+## How It Works (The Role of AI)
+
+The intelligence of Demeology-AI is powered by a dual-AI approach, combining local machine learning with cloud-based generative AI to provide a complete diagnostic experience:
+
+1. **Visual Recognition (PyTorch / Transformers)**: 
+   When a user uploads a skin image, the local PyTorch model acts as the "eyes" of the system. It analyzes the visual features of the skin condition and classifies it (e.g., Melanoma, Eczema) while calculating a confidence score.
+2. **Clinical Synthesis (OpenAI GPT-3.5)**: 
+   Once the disease is visually identified, the OpenAI API acts as the "expert consultant". It takes the predicted disease name, along with the patient's provided age, gender, and medical history, to generate a highly detailed, professional medical report in JSON format. This report includes potential causes, a recommended skincare routine, lifestyle tips, and advice on when to seek a doctor.
+
+This synergy ensures the system not only identifies the visual symptoms but also contextualizes them into actionable medical advice.
 ## Core Capabilities
 
 - Image Classification: Utilizes Hugging Face Transformers to classify skin conditions across multiple diagnostic categories.

@@ -110,4 +110,4 @@ print("Class names saved!")
 # Results
 val_loss, val_acc = model.evaluate(val_data)
 print(f"\nAccuracy: {val_acc*100:.2f}%")
-print("\nDon
+print("\nDone! You can now run the Flask app!")
